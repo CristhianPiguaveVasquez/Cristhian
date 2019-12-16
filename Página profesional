@@ -1,0 +1,38 @@
+# 
+# #Esta archivo. contiene. indicadores.de.configuracion.para.personalizar. su. sitio
+# #
+ 
+# # nombre.de.su. sitio.se.muestra. en. el. encabezado)
+nombre: Gabriel Piguave
+
+
+# #breve. biografía.o descripción.que.se.muestra. en.el.encabezado
+descripción: Paguina profesional
+
+# # URL de su. Avatar o. foto.de. perfil.puedes. usar. tu. foto.de.perfil.de. GitHub.
+avatar: https // raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo .png
+
+# #
+# # las siguientes.banderas.son. opcionales
+#
+
+# # incluye.un.icono.en.el.pie.de.paguina.para.cada.nombre.de.usuario.que.ingrese.
+enlaces de pie de página:
+regatear:
+Correo electrónico: cristhianpiguave@outlook.com
+Facebook: CristhianPiguave
+flickr:
+GitHub: barryclark / jekyll-now
+instagram: cristhianpiguave@outlook.com
+Linkedin:
+Pinterest:
+
+twittear: cristhian08 @twitter.ec
+Starckoverflow:
+Youtube:
+cuenta google: cristhianpiguave08@gmail.com
+
+# #entrar tu.Disqus. nombre corto (no tu.nombre de.usuario) a permitir la conexión en posts
+# # usted puede. encontrar tu nombre corto en la configuración Pensilvania de tu disqus cuenta
+disqus:
+
